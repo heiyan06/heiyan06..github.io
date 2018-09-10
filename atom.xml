@@ -18,9 +18,9 @@
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2018/09/10/#%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E7%AB%A0#/"/>
-    <id>http://yoursite.com/2018/09/10/#第一个文章#/</id>
-    <published>2018-09-10T02:53:04.434Z</published>
+    <link href="http://yoursite.com/2018/09/10/test/"/>
+    <id>http://yoursite.com/2018/09/10/test/</id>
+    <published>2018-09-10T02:58:56.991Z</published>
     <updated>2018-09-10T02:52:30.000Z</updated>
     
     <content type="html"><![CDATA[<p>#第一个文章#</p><p>测试功能</p><p>*1</p><p>*2</p><p>*3</p>]]></content>
